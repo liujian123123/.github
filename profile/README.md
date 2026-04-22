@@ -1,4 +1,4 @@
-# Welcome to lierda's GitHub
+# Welcome to Lierda's GitHub
 
 We're a leading provider of IoT and wireless communication solutions, specializing in Cat.1, NB-IoT,WiFi, BLE, LoRa and more.
 
